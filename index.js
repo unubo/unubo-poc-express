@@ -1,5 +1,5 @@
 import express from 'express';
-import config from './src/config/index.mjs';
+import config from './src/config';
 
 const app = express();
 const PORT = process.env.PORT || 3000;
