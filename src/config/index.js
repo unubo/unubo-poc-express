@@ -1,5 +1,5 @@
 const config = {
-  name: 'unubo-poc-2',
+  name: 'unubo-poc',
   version: '0.0.1-alpha',
 };
 
